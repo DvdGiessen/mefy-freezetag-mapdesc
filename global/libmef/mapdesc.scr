@@ -3,7 +3,7 @@
 
 Map Description Library
 for Medal Of Honor
-Version 2.0.0 (2025-06-05)
+Version 2.0.1 (2025-06-08)
 
 License: MIT (see full text below)
 
@@ -245,6 +245,7 @@ setup_map local.map:
 		case "mp_brest_dm":
 		case "mp_stadt_dm":
 		case "mp_verschneit_dm":
+		case "mp_ardennes_tow":
 
 		// Breakthrough multiplayer maps
 		case "mp_ship_lib":
